@@ -1,0 +1,45 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "SubarraySumK",
+      "request": "launch",
+      "mainClass": "SubarraySumK",
+      "projectName": "StriverA-Z_75dd0347"
+    },
+    {
+      "type": "java",
+      "name": "FindUnion",
+      "request": "launch",
+      "mainClass": "FindUnion",
+      "projectName": "StriverA-Z_75dd0347"
+    },
+    {
+      "type": "java",
+      "name": "Demo",
+      "request": "launch",
+      "mainClass": "Demo",
+      "projectName": "StriverA-Z_75dd0347"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/Programs/DSA/StriverA-Z",
+      "program": "d:/Programs/DSA/StriverA-Z/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
